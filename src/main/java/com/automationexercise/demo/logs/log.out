@@ -1,0 +1,2 @@
+2024-01-01 14:01:899 INFO  HomePage :104 - Getting Home Page URL : 
+2024-01-01 14:01:196 INFO  LoginPage :58 - Getting text as Login to your account : Proxy element for: DefaultElementLocator 'By.xpath: //h2[normalize-space()='Login to your account']'
